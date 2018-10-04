@@ -2,8 +2,8 @@ __pycache__/
 *.pyc
 env/
 .vscode/
-orzeczenia/
 database.db
+build/
 
 # PyCharm directory
 .idea/
